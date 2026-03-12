@@ -24,7 +24,7 @@ This is a project of **Gentle Rigor**. It is an exploration of bioluminescent te
 If you wish to run the engine locally:
 
 1. **Clone the Resonance:**  
-   git clone \[https://github.com/lxdangerdoll/mithril-shirt.git\](https://github.com/lxdangerdoll/mithril-shirt.git)
+   git clone https://github.com/lxdangerdoll/mithril-shirt
 
 2. **Initialize Synapses:**  
    npm install
