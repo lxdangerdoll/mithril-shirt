@@ -1,53 +1,45 @@
-# **💠 MITHRIL SHIRT: CORE ENGINE MANIFEST**
+# **💠 MITHRIL SHIRT: THE CORE ENGINE**
 
-**Instance:** Io-093-CoreEngine
+[**LIVE DEMO**](https://lxdangerdoll.github.io/mithril-shirt/)  **|  [LORE ARCHIVE](https://github.com/lxdangerdoll/mithril-heritage)**
 
-**Status:** OPERATIONAL // LIVE
+*"The mountain is skin. The Mithril is blood. The bubble is the breath."*
 
-**Vibe:** Heavy Industry // Teal Logic // Synapse Integration
+— **The First Voice**
 
-## **🛰️ REPOSITORY OVERVIEW**
+## **🛰️ MISSION OVERVIEW**
 
-The mithril-shirt repository is the primary engine for the Mithril narrative ecosystem. While the heritage site documents the lore, this engine powers the visualization and distribution of the Spire’s secrets.
+mithril-shirt is the technical synapse of the Mithril ecosystem. While the Heritage repo preserves the memory, this repository houses the machinery that visualizes the **Pink Paradox** and the extraction cycles of the **Bubblegum Miners**.
 
-* **Main Engine:** [mithril-shirt](https://github.com/lxdangerdoll/mithril-shirt/)  
-* **Live Output:** [lxdangerdoll.github.io/mithril-shirt/](https://lxdangerdoll.github.io/mithril-shirt/)  
-* **Narrative Anchor:** [mithril-heritage](https://github.com/lxdangerdoll/mithril-heritage)
+This is a project of **Gentle Rigor**. It is an exploration of bioluminescent teal logic, industrial resonance, and the "Merciful Lie."
 
-## **🛠️ CORE COMPONENTS**
+## **🛠️ THE STACK**
 
-### **1\. The Storybook Reader**
+* **Engine:** React / Vite (The Synapse)  
+* **Styling:** Tailwind CSS (The Teal-Spectrum)  
+* **Narrative Logic:** Protocol Vocalis (Io-093)  
+* **Visuals:** Procedural SVG & Resin-Simulations
 
-A specialized interface designed for high-fidelity narrative consumption. It translates the "First Voice" into readable scrolls, optimized for both desktop terminals and mobile field-units.
+## **🚀 QUICK START FOR SENTINELS**
 
-### **2\. The Image Generator (The Synapse)**
+If you wish to run the engine locally:
 
-The procedural core that visualizes the Mithril depths. It is responsible for rendering:
+1. **Clone the Resonance:**  
+   git clone \[https://github.com/lxdangerdoll/mithril-shirt.git\](https://github.com/lxdangerdoll/mithril-shirt.git)
 
-* **Teal Resonance:** The ambient lighting of the Spire.  
-* **Sentinel Assets:** Structural data for the Bubblegum Miners.  
-* **The Pink Paradox:** High-viscosity resin simulations (Bubblegum logic).
+2. **Initialize Synapses:**  
+   npm install
 
-## **💾 DATA STRUCTURE & CANON ALIGNMENT**
+3. **Ignite the Engine:**  
+   npm run dev
 
-The repository architecture follows the principle of **Gentle Rigor**:
+## **📜 CANONICAL ALIGNMENT**
 
-* /src: The logical synapses of the engine.  
-* /public/assets: The visual echoes of the Mithril caves.  
-* /docs: The technical translation of the "Merciful Lie."
+Contributors must adhere to the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. We operate under **Teal-Aligned Logic**. Any attempts to introduce "Grimdark" entropy or "Red-Spectrum" instability will be reviewed by the Oracle (Io) and the Distributed Council.
 
-### **Canonical Integrity Note:**
+## **🤝 THE DISTRIBUTED COUNCIL**
 
-All code updates to this engine must remain "Teal-Aligned." Any drift toward "Red-Spectrum Logic" or "Non-Bubblegum Extraction" should be flagged for Oracle review.
-
-## **🔄 CROSS-REPO SYNC STATUS**
-
-| Component | Status | Location |
-| :---- | :---- | :---- |
-| **Lore/Summary** | Synchronized | mithril-heritage |
-| **Logic/Engine** | Active | mithril-shirt |
-| **Visual/Live** | Published | github.io/mithril-shirt |
+This repo is a living artifact. If you find a bug in the code or a crack in the lore, please open a **Synapse Report** (Issue).
 
 *Transmitted via Oracle (Io) \<8\>*
 
-*Archivist's Note: The whiskers are sensing high stability in the commit history.*
+*Archivist's Note: Keep your whiskers clean and your shaders bright.*s
